@@ -2,6 +2,8 @@
 
 Este es un contenido escrito en Markdown.
 
+[Credenciales](./credenciales.md)
+
 ## Sección 1
 
 Esto es un párrafo en Markdown. Puedes escribir *en cursiva*, **en negrita**, y [enlazar a otros sitios](https://example.com).
