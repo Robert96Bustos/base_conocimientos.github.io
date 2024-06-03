@@ -4,5 +4,7 @@
 
 - [Credenciales](./credenciales.md)
 ---
+- [Licencias](./licencias.md)
+---
 
 
