@@ -1,4 +1,4 @@
-<-[Volver](./index.md)
+[Volver](./index.md)
 
 # <u>CREDENCIALES</u>
 
