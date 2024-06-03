@@ -1,4 +1,4 @@
-<a href="javascript:history.back()" class="button">Volver</a>
+<-[Volver](./index.md)
 
 # <u>CREDENCIALES</u>
 
