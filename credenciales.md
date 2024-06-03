@@ -1,3 +1,5 @@
+<a href="javascript:history.back()" class="button">Volver</a>
+
 # <u>CREDENCIALES</u>
 
 ## CREDENCIAL PENDIENTE DE ENTREGA
