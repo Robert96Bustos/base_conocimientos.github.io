@@ -1,3 +1,5 @@
+# <u>CREDENCIALES</u>
+
 ## CREDENCIAL PENDIENTE DE ENTREGA
 
 1. Verificar tabla persona para RUT  
