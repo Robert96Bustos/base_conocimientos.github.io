@@ -25,15 +25,15 @@ a:hover {
 }
 
 code {
-    background-color: #333333; /* Fondo de los bloques de código en gris oscuro */
-    color: #ffffff; /* Texto de los bloques de código en blanco */
-    padding: 2px 4px; /* Espaciado dentro del bloque de código */
+    background-color: #cfbe03c4; /* Fondo de los bloques de código en gris oscuro */
+    color: #ffee27; /* Texto de los bloques de código en blanco */
+    padding: 4px 6px; /* Espaciado dentro del bloque de código */
     border-radius: 4px; /* Bordes redondeados */
 }
 
 pre {
-    background-color: #333333; /* Fondo de los bloques de código preformateados en gris oscuro */
-    color: #ffffff; /* Texto de los bloques de código preformateados en blanco */
+    background-color: #cfbe03c4; /* Fondo de los bloques de código preformateados en gris oscuro */
+    color: #ffee27; /* Texto de los bloques de código preformateados en blanco */
     padding: 10px; /* Espaciado dentro del bloque de código preformateado */
     border-radius: 4px; /* Bordes redondeados */
 }
