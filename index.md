@@ -8,7 +8,7 @@
 ---
 - [Licencias](./licencias.md)
 ---
-- [Licencias](./vehiculos.md)
+- [Vehículos](./vehiculos.md)
 ---
 
 
