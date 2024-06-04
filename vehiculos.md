@@ -1,27 +1,31 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 [Volver](./index.md)
+<br>
 
 # <u>PROCESOS DE VEHÍCULOS</u>
+<br>
 
 ## DEJAR PARA IMPRESIÓN QR DE VEHÍCULO (pendiente de impresión de QR)
 
 1. `veh_solicitud`: nos fijamos cualquiera que no esté en 10, `fkid_Estado` cambiar a 4
 2. Tomamos el id y vamos a `veh_Credencial_solicitud` y cambiamos el `fk_estadocredencial` a 3
 3. PARA VERIFICAR VAMOS A CREDENCIALIZACIÓN - EMISIÓN CREDENCIALES VEH  
-   **NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO**
+##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
+<br>
 
 ## DEJAR ACREDITADA Y HABILITADA PATENTE (O VALIDAR PATENTE)
 
 1. Buscar patente en script
 2. Ir a `veh_solicitud` y cambiar `fkid_estado` a 4
 3. En `veh_credencial_solicitud` cambiar `fkid_estadocredencial` a 4  
-   ##### VERIFICAR EN CREDENCIALIZACIÓN - EMISIÓN CREDENCIALES VEHÍCULO 
-   ##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
+##### VERIFICAR EN CREDENCIALIZACIÓN - EMISIÓN CREDENCIALES VEHÍCULO 
+##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
+<br>
 
 ## DEJAR PATENTE PENDIENTE DE INSPECCIÓN (WM/Codelco)
 
@@ -38,6 +42,7 @@
 ##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
+<br>
 
 ## PATENTE PENDIENTE DE REVISIÓN O PENDIENTE WORKMATE
 
@@ -51,6 +56,7 @@
 ##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
+<br>
 
 ## DEJAR RECHAZADA DE INSPECCIÓN
 
@@ -58,6 +64,7 @@
 ##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
+<br>
 
 ## DEJAR RECHAZADA WORKMATE
 
@@ -67,6 +74,7 @@
 4. Fijarse que `fecha_revisioncodelco` esté en Null y `revision_codelco` en 0
 
 ---
+<br>
 
 ## RECHAZAR VEHÍCULO O PATENTE
 

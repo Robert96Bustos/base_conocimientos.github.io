@@ -1,8 +1,10 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 [Volver](./index.md)
+<br>
 
 # <u>PROCESOS DE LICENCIAS</u>
+<br>
 
 ## LICENCIA PARA IMPRIMIR
 
@@ -15,6 +17,7 @@
 ##### REVISAR EN IMPRESIÓN LICENCIA INTERNA
 
 ---
+<br>
 
 ## DEJAR LICENCIA HABILITADA EN SISTEMA (entregar lic)
 
@@ -24,6 +27,7 @@
 4. Una vez guardado, dirigirse a `lic_credenciales` y cambiar `fkid_estadocredencial` a 1 (Habilitado)
 
 ---
+<br>
 
 ## LICENCIA PENDIENTE WORKMATE (O PENDIENTE VALIDACIÓN)
 

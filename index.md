@@ -4,17 +4,15 @@
 <br>
 <br>
 
-## Menú de navegación.
+## Menú
 <br>
 
 - [Credenciales](./credenciales.md)
 ---
 <br>
-<br>
 
 - [Licencias](./licencias.md)
 ---
-<br>
 <br>
 
 - [Vehículos](./vehiculos.md)

@@ -1,8 +1,10 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 [Volver](./index.md)
+<br>
 
 # <u>PROCESOS DE CREDENCIALES</u>
+<br>
 
 ## CREDENCIAL PENDIENTE DE ENTREGA
 
@@ -14,6 +16,7 @@
 ##### VERIFICAR EN HERRAMIENTA - BÚSQUEDA PERSONAL - PONER RUT Y VER QUE TENGA UN BOTÓN AZUL
 
 ---
+<br>
 
 ## ENTREGAR CREDENCIAL o SI NO PUEDEN ENTREGAR CREDENCIAL
 
@@ -21,7 +24,7 @@
 2. Dejamos `entregada` en 1, `impresa` en 1 y el estado de 3 pasa a 7  
 ##### Revisar `fecha_entregacredencial`
 
-##### Si aún no quiere  
+##### En caso de persistir problema 
 1. Ir a `acr_credenciales_cnt_empleados` y dejar `estado_credenciales` en 1  
 2. Verificar que datos coincidan  
 3. En `ws_persona_log` se creará uno con la hora actual  
@@ -29,6 +32,7 @@
 ##### Verificar que respuesta sea OK y verificar en `datos_enviados` que información coincida
 
 ---
+<br>
 
 ## CREDENCIAL PARA IMPRIMIR
 
@@ -38,6 +42,7 @@
 ##### VERIFICAR EN IMPRESIÓN PERSONAL
 
 ---
+<br>
 
 ## REVISAR LA REIMPRESIÓN DE LA CREDENCIAL - ARREGLAR y/o MOSTRAR EL DETALLE DEL MOTIVO
 
