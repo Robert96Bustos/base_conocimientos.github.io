@@ -6,7 +6,7 @@
 
 1. Verificar tabla persona para RUT  
 2. `cnt_contratoempleado` usar ID que tenga `fkid_cntempleadoestado` en 2  
-3. `acr_solicitud` poner `entregada_solicitud` en 0 y `fkid_estadoacreditación` en 3  
+3. `acr_solicitud` poner `entregada_solicitud` en 0 y `fkid_estadoacreditación` en 3.  
 
 ##### Si solicitan cambiar HID verificar en `acr_credenciales`  
 ##### VERIFICAR EN HERRAMIENTA - BÚSQUEDA PERSONAL - PONER RUT Y VER QUE TENGA UN BOTÓN AZUL
