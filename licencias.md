@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 [Volver](./index.md)
 
 # <u>LICENCIAS</u>
