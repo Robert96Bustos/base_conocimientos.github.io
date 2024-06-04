@@ -29,4 +29,5 @@
 
 1. `acr_solicitudlicencia` dejar en `fkid_estadoacreditación` editadopendiente workmate (10)
 2. `acr_solicitudlicencia` `fechawm` y `fecha codelco` en NULL y `revisionwm` y `revisioncodelco` 0
-3. VERIFICAR EN ACRED LIC. INTERNAS PENDIENTES
+
+##### VERIFICAR EN ACRED LIC. INTERNAS PENDIENTES
