@@ -47,6 +47,6 @@ table, th, td {
 }
 
 th, td {
-    padding: 8px; /* Espaciado dentro de las celdas */
+    padding: 6px; /* Espaciado dentro de las celdas */
     text-align: left; /* Alineación del texto en las celdas */
 }
