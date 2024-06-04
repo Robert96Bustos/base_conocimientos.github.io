@@ -1,26 +1,29 @@
 body {
-    background: #232526;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #ffffff; /* Texto blanco */
     font-family: Arial, sans-serif; /* Fuente del texto */
 }
 
-h1, h2 {
-    color: white; /* Títulos en color amarillo */
+h1 {
+    color: #E65300;
+}
+
+h2 {
+    color: white;
 }
 
 h3, h4, h5, h6 {
-    color: rgb(224, 32, 32); /* Títulos en color amarillo */
+    color: rgb(224, 32, 32);
 }
 
 a {
-    color: white; /* Enlaces en color azul */
+    color: white;
 }
 
 a:hover {
-    color: #bd5900; /* Enlaces en color verde cuando se pasa el ratón por encima */
+    color: #339be9;
 }
 
 code {
