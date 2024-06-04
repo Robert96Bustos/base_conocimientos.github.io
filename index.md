@@ -1,4 +1,4 @@
-# ¡BASE DE CONOCIMIENTO WORKMATE!
+# ¡WORKMATE!
 
 ## Menú de navegación.
 
