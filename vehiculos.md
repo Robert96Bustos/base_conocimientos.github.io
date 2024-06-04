@@ -18,8 +18,8 @@
 1. Buscar patente en script
 2. Ir a `veh_solicitud` y cambiar `fkid_estado` a 4
 3. En `veh_credencial_solicitud` cambiar `fkid_estadocredencial` a 4  
-   **VERIFICAR EN CREDENCIALIZACIÓN - EMISIÓN CREDENCIALES VEHÍCULO**  
-   **NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO**
+   ##### VERIFICAR EN CREDENCIALIZACIÓN - EMISIÓN CREDENCIALES VEHÍCULO 
+   ##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
 
@@ -34,8 +34,8 @@
 7. Ingresar en `fecha_inspeccion` la `fecha_turno`
 8. En `fkid_configuracion_inspectores`, seleccionar dejar en 1 (ZN ZONA NORTE)
 9. Dejar `fkid_calendario` en 1 y poner la `fkid_solicitud` que corresponde al id del vehículo  
-   **PARA VERIFICAR IR A HERRAMIENTAS - BÚSQUEDA PATENTE**  
-   **NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO**
+##### PARA VERIFICAR IR A HERRAMIENTAS - BÚSQUEDA PATENTE  
+##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
 
@@ -48,14 +48,14 @@
 5. Dejamos `fecha_revision_codelco` en NULL
 6. `revision_wm` en 0
 7. `revision_codelco` en 0  
-   **NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO**
+##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
 
 ## DEJAR RECHAZADA DE INSPECCIÓN
 
 1. En `veh_solicitud` cambiar `fkid_estado` a 5 (RECHAZADO DE INSPECCIÓN)  
-   **NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO**
+##### NO TOCAR PENDIENTES WORKMATE O PENDIENTES CODELCO
 
 ---
 
