@@ -16,4 +16,7 @@
 - [Vehículos](./vehiculos.md)
 ---
 
+- [Información](./informacion.md)
+---
+
 
