@@ -2,7 +2,7 @@
 
 [Volver](./index.md)
 
-# <u>CREDENCIALES</u>
+# <u>PROCESOS DE CREDENCIALES</u>
 
 ## CREDENCIAL PENDIENTE DE ENTREGA
 

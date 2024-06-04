@@ -2,7 +2,7 @@
 
 [Volver](./index.md)
 
-# <u>LICENCIAS</u>
+# <u>PROCESOS DE LICENCIAS</u>
 
 ## LICENCIA PARA IMPRIMIR
 
