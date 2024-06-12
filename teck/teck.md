@@ -1,7 +1,6 @@
-<link rel="stylesheet" type="text/css" href="/styles.css">
-<br>
+<link rel="stylesheet" type="text/css" href="../styles.css
 
-[Volver](/index.md)
+[Volver](../index.md)
 <br>
 
 # TECK

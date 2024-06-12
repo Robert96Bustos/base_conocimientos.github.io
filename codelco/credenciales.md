@@ -1,7 +1,7 @@
-<link rel="stylesheet" type="text/css" href="/styles.css">
+<link rel="stylesheet" type="text/css" href="../styles.css">
 <br>
 
-[Volver](/codelco/codelco.md)
+[Volver](codelco.md)
 <br>
 
 # <u>PROCESOS DE CREDENCIALES</u>

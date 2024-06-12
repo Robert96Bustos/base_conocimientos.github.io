@@ -1,7 +1,7 @@
-<link rel="stylesheet" type="text/css" href="/styles.css">
+<link rel="stylesheet" type="text/css" href="../styles.css">
 <br>
 
-[Volver](/index.md)
+[Volver](../index.md)
 <br>
 
 # CODELCO
@@ -10,13 +10,13 @@
 ## Menú
 <br>
 
-- [Credenciales](./credenciales.md)
+- [Credenciales](credenciales.md)
 ---
-- [Licencias](./licencias.md)
+- [Licencias](licencias.md)
 ---
-- [Vehículos](./vehiculos.md)
+- [Vehículos](vehiculos.md)
 ---
-- [Información](./informacion.md)
+- [Información](informacion.md)
 ---
 
 
