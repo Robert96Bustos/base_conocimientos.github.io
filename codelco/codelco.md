@@ -1,7 +1,7 @@
-<link rel="stylesheet" type="text/css" href="./styles.css">
+<link rel="stylesheet" type="text/css" href="/styles.css">
 <br>
 
-[Volver](../index.md)
+[Volver](/index.md)
 <br>
 
 # CODELCO
