@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="../styles.css">
 <br>
 
-![](../img/back.png) [Volver](../index.md)
+[Volver](../index.md)
 <br>
 
 # CODELCO
