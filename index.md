@@ -9,7 +9,7 @@
 
 - [CODELCO](./codelco/codelco.md)
 ---
-- [TECK](./teck.md)
+- [TECK](./teck/teck.md)
 ---
 
 
