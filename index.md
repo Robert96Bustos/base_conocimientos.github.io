@@ -7,13 +7,10 @@
 ## Menú
 <br>
 
-- [Credenciales](./credenciales.md)
+- [CODELCO](./codelco.md)
 ---
-- [Licencias](./licencias.md)
+- [TECK](./codelco.md)
 ---
-- [Vehículos](./vehiculos.md)
----
-- [Información](./informacion.md)
----
+
 
 
