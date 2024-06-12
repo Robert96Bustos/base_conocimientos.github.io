@@ -1,16 +1,15 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <br>
 
-# ¡WORKMATE!
+[Volver](./index.md)
+<br>
+
+# TECK
 <br>
 
 ## Menú
 <br>
 
-- [CODELCO](./codelco/codelco.md)
+- [SOLICITUD USUARIO](./solicitud_usuario.md)
 ---
-- [TECK](./teck.md)
----
-
-
 
