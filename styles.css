@@ -50,3 +50,15 @@ th, td {
     padding: 6px; /* Espaciado dentro de las celdas */
     text-align: left; /* Alineación del texto en las celdas */
 }
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+li {
+    margin: 5px 0;
+}
+.department {
+    font-weight: bold;
+    color: #000080;
+}
