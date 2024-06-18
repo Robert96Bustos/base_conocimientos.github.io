@@ -21,4 +21,4 @@ Correo:
 
 Si es Empresa Subcontratista estas no tienen usuario como tal, es la Empresa Contratista la que debe solicitar usuario para subcontratista en empresa madre bajo la responsabilidad del solicitante
 
-Quedo atentO
+Quedo atento

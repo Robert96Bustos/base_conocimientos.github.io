@@ -9,6 +9,6 @@
 ## Menú
 <br>
 
-- [SOLICITUD USUARIO](./solicitud_usuario.md)
+- [Solicitud usuario](./solicitud_usuario.md)
 ---
 
