@@ -8,20 +8,20 @@
 <br>
 
 - <span class="department">DGM</span>
-  - Constanza Bermudez: cberm003@codelco.cl
-<br>
+  - **Constanza Bermudez**: cberm003@codelco.cl
+
 - <span class="department">DRT</span>
-  - Sergio Sanhueza: ssanhuez@codelco.cl
-  - Alejandra Opazo: aopazo@contratistas.codelco.cl
-  - Santiago Cayo: scayo001@codelco.cl
-<br>
+  - **Sergio Sanhueza**: ssanhuez@codelco.cl
+  - **Alejandra Opazo**: aopazo@contratistas.codelco.cl
+  - **Santiago Cayo**: scayo001@codelco.cl
+
 - <span class="department">DMH</span>
-  - Lorena Navarro: lnava007@codelco.cl
-  - Oscar Blaimont: oblai001@codelco.cl
-<br>
+  - **Lorena Navarro**: lnava007@codelco.cl
+  - **Oscar Blaimont**: oblai001@codelco.cl
+
 - <span class="department">DCH</span>
-  - Omar Tovar: otovar@codelco.cl
-<br>
+  - **Omar Tovar**: otovar@codelco.cl
+
 - <span class="department">DET</span>
-  - María José Godoy: mgodo042@codelco.cl
-  - Giorgio Pardo: gpard001@codelco.cl
+  - **María José Godoy**: mgodo042@codelco.cl
+  - **Giorgio Pardo**: gpard001@codelco.cl
